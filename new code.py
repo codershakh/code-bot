@@ -1,0 +1,1 @@
+print("Assalomu alayku va rahmatullohu va barakotuh")
